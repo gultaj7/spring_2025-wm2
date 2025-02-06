@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="az.edu.ada.wm2.AppTest" time="0.089" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="az.edu.ada.wm2.AppTest" time="0.079" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="AZ"/>
     <property name="sun.boot.library.path" value="/Users/gultacmuradova/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/surefire/surefirebooter-20250206105020501_3.jar /Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/surefire 2025-02-06T10-50-20_341-jvmRun1 surefire-20250206105020501_1tmp surefire_0-20250206105020501_2tmp"/>
+    <property name="sun.java.command" value="/Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/surefire/surefirebooter-20250206110827393_3.jar /Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/surefire 2025-02-06T11-08-27_253-jvmRun1 surefire-20250206110827393_1tmp surefire_0-20250206110827393_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/test-classes:/Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/classes:/Users/gultacmuradova/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar:/Users/gultacmuradova/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/gultacmuradova/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar:/Users/gultacmuradova/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/gultacmuradova/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/surefire/surefirebooter-20250206105020501_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/gultacmuradova/Desktop/wm_2/lab_2/lab_2/target/surefire/surefirebooter-20250206110827393_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="22.0.1+8-16"/>
@@ -57,9 +57,9 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="testGreetingMessage" classname="az.edu.ada.wm2.AppTest" time="0.037"/>
-  <testcase name="shouldAnswerWithTrue" classname="az.edu.ada.wm2.AppTest" time="0.003"/>
-  <testcase name="testAddition" classname="az.edu.ada.wm2.AppTest" time="0.002"/>
+  <testcase name="testGreetingMessage" classname="az.edu.ada.wm2.AppTest" time="0.034"/>
+  <testcase name="shouldAnswerWithTrue" classname="az.edu.ada.wm2.AppTest" time="0.002"/>
+  <testcase name="testAddition" classname="az.edu.ada.wm2.AppTest" time="0.001"/>
   <testcase name="testAppHasAGreeting" classname="az.edu.ada.wm2.AppTest" time="0.002"/>
   <testcase name="testFailCase" classname="az.edu.ada.wm2.AppTest" time="0.001"/>
   <testcase name="testSubtraction" classname="az.edu.ada.wm2.AppTest" time="0.002"/>
